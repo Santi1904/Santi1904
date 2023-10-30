@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/saanty_1904" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saanty_1904" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/santiago-domingues" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santiago domingues" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/santiago-domingues/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santiago domingues" height="30" width="40" /></a>
 <a href="https://kaggle.com/santiagodomingues" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="santiago domingues" height="30" width="40" /></a>
 <a href="https://fb.com/santiago domingues" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="santiago domingues" height="30" width="40" /></a>
 <a href="https://instagram.com/saanty.90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saanty.90" height="30" width="40" /></a>
