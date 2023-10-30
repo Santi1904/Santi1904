@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Santiago Domingues</h1>
 <h3 align="center">Degree in Software Engineering @ Universidade do Minho</h3>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santi1904&label=Profile%20views&color=0e75b6&style=flat" alt="santi1904" /> </p>
 
 <p align="left"> <a href="https://twitter.com/saanty_1904" target="blank"><img src="https://img.shields.io/twitter/follow/saanty_1904?logo=twitter&style=for-the-badge" alt="saanty_1904" /></a> </p>
