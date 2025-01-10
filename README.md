@@ -59,4 +59,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santi1904&show_icons=true&theme=dracula&locale=en" alt="santi1904" /></p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Santi1904/Santi1904/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Santi1904/Santi1904/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Santi1904/Santi1904/output/github-contribution-grid-snake.svg">
+</picture>
 
