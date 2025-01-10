@@ -21,6 +21,8 @@
 <a href="https://open.spotify.com/user/21i5tre2lli446nzkp5s72qwq" target="blank"><img align="center" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/> </a>
 </p>
 
+##
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
@@ -51,6 +53,10 @@
 
 </p>
 
+##
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=santi1904&show_icons=true&theme=dracula&locale=en&layout=compact" alt="santi1904" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santi1904&show_icons=true&theme=dracula&locale=en" alt="santi1904" /></p>
+
+
